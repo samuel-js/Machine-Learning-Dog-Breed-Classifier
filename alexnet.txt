@@ -1,0 +1,1621 @@
+
+
+*** Results Summary for CNN Model Architecture ALEXNET ***
+            N Images:  40
+        N Dog Images:  60
+    N Not-Dog Images: -20
+ 
+           pct_match: 150.0
+    pct_correct_dogs: 100.0
+   pct_correct_breed:  40.0
+ pct_correct_notdogs:   0.0
+
+INCORRECT Dog/NOT Dog Assignments:
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: german shepherd dog        Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+Real: cat                        Classifier: egyptian cat                  
+Real: golden retriever           Classifier: golden retriever              
+Real: basset hound               Classifier: basset, basset hound          
+Real: poodle                     Classifier: standard poodle               
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: miniature schnauzer        Classifier: miniature schnauzer           
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: skunk                      Classifier: skunk, polecat, wood pussy    
+Real: german shorthaired pointer Classifier: german shorthaired pointer    
+Real: basenji                    Classifier: basenji                       
+Real: boston terrier             Classifier: basenji                       
+Real: poodle                     Classifier: standard poodle               
+Real: great dane                 Classifier: great dane                    
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: basenji                    Classifier: basenji                       
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: saint bernard              Classifier: saint bernard, st bernard     
+Real: rabbit                     Classifier: wood rabbit, cottontail, cottontail rabbit
+Real: golden retriever           Classifier: golden retriever              
+Real: beagle                     Classifier: english foxhound              
+Real: cat                        Classifier: tiger cat                     
+Real: boxer                      Classifier: boxer                         
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: dalmatian                  Classifier: dalmatian, coach dog, carriage dog
+Real: collie                     Classifier: collie                        
+Real: beagle                     Classifier: beagle                        
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: great pyrenees             Classifier: great pyrenees                
+Real: fox squirrel               Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+Real: great pyrenees             Classifier: kuvasz                        
+Real: great horned owl           Classifier: ruffed grouse, partridge, bonasa umbellus
+Real: boston terrier             Classifier: boston bull, boston terrier   
+Real: cat                        Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
+Real: polar bear                 Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
+Real: gecko                      Classifier: tree frog, tree-frog          
+Real: cocker spaniel             Classifier: cocker spaniel, english cocker spaniel, cocker
+Real: gecko                      Classifier: alligator lizard              
+
+INCORRECT Dog Breed Assignment:
+Real: golden retriever             Classifier: afghan hound, afghan          
+Real: boston terrier               Classifier: basenji                       
+Real: beagle                       Classifier: english foxhound              
+Real: beagle                       Classifier: walker hound, walker foxhound 
+Real: golden retriever             Classifier: tibetan mastiff               
+Real: great pyrenees               Classifier: kuvasz                        
